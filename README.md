@@ -4,10 +4,6 @@
 
 ### Computer Science student @ UNSA 🇵🇪
 
-<div align="center">
-
-<img src="TU_BANNER.svg" width="100%">
-
 <br>
 
 Currently teaching computers new tricks ✨
