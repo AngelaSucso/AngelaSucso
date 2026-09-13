@@ -1,19 +1,11 @@
-<div align="center">
+# Angela Sucso
 
-```text
-┌─[ angela@github ]──────────────────────┐
-│  Hi!, I'm Angela                       │
-│  Computer Science student @ UNSA 🇵🇪    │
-│                                        │
-│  I build software, experiment with AI, │
-│  and turn ideas into working projects. │
-│                                        │
-│  Still figuring things out.            │
-│  That's the fun part. 🐛               │
-│                                        │
-└────────────────────────────────────────┘
-```
-</div>
+**Computer Science student @ UNSA 🇵🇪**
+
+I build software, experiment with AI,
+and turn ideas into working projects.
+
+> Still figuring things out. That's the fun part. 🐛
 
 
 <!---
