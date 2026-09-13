@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="./fondo.PNG" width="500">
+  <img src="./fondo2.PNG" width="500">
 </p>
 
 <div align="center">
 
-🎓 Computer Science student  
-💻 Software development & AI  
-🌱 Currently learning and building
+Computer Science student @ UNSA 🇵🇪
+
+I build software, experiment with AI,
+and turn ideas into working projects.
+
+Still figuring things out. That's the fun part. 🐛
 
 </div>
 
