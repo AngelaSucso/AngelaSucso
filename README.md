@@ -6,8 +6,7 @@
 
 <br>
 
-I build software, experiment with AI,<br>
-and turn ideas into working projects.
+Currently teaching computers new trick ✨
 
 <br><br>
 
