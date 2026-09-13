@@ -1,12 +1,23 @@
+<div align="center">
+
 # Angela Sucso
 
-**Computer Science student @ UNSA 🇵🇪**
+### Computer Science student @ UNSA 🇵🇪
 
-I build software, experiment with AI,
+<br>
+
+I build software, experiment with AI,<br>
 and turn ideas into working projects.
 
-> Still figuring things out. That's the fun part. 🐛
+<br><br>
 
+`C++` &nbsp; `Python` &nbsp; `Django` &nbsp; `MySQL` &nbsp; `Git`
+
+<br><br>
+
+<i>Still figuring things out. That's the fun part. 🐛</i>
+
+</div>
 
 <!---
 AngelaSucso/AngelaSucso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
