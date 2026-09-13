@@ -11,7 +11,7 @@ and turn ideas into working projects.
 
 <br><br>
 
-`C++` &nbsp; `Python` &nbsp; `Django` &nbsp; `MySQL` &nbsp; `Git`
+<img src="https://skillicons.dev/icons?i=cpp,python,django,mysql,git,github,html" />
 
 <br><br>
 
