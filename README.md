@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @AngelaSucso
-- 👀 I’m interested in all
-- 🌱 I’m currently learning all
-- 📫 How to reach me asucso@unsa.edu.pe
+<p align="center">
+  <img src="./fondo.PNG" width="500">
+</p>
+
+🎓 Computer Science student
+💻 Software development & AI
+🌱 Currently learning and building
 
 <!---
 AngelaSucso/AngelaSucso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
