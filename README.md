@@ -8,7 +8,7 @@
 
 Currently teaching computers new trick ✨
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,django,mysql,git,github,html" />
 
