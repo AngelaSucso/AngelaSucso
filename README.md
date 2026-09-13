@@ -4,6 +4,10 @@
 
 ### Computer Science student @ UNSA 🇵🇪
 
+<div align="center">
+
+<img src="TU_BANNER.svg" width="100%">
+
 <br>
 
 Currently teaching computers new tricks ✨
@@ -11,6 +15,8 @@ Currently teaching computers new tricks ✨
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,django,mysql,git,github,html,arduino,vscode" />
+
+</div>
 
 <br><br>
 
