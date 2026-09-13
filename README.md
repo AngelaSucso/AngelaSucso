@@ -12,8 +12,7 @@ Currently teaching computers new trick ✨
 
 <img src="https://skillicons.dev/icons?i=cpp,python,django,mysql,git,github,html" />
 
-<br><br>
-
+<br>
 <i>Still figuring things out. That's the fun part. 🐛</i>
 
 </div>
