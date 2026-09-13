@@ -145,11 +145,3 @@ View repository →
 </td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-<i>Still figuring things out. That's the fun part. 🐛</i>
-
-</div>
